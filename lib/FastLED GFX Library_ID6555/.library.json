@@ -1,0 +1,58 @@
+{
+    "name": "FastLED GFX Library", 
+    "version": "0.1.0", 
+    "keywords": [
+        "display"
+    ], 
+    "description": "Adafruit_GFX-compatible library for FastLED grids", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "infineonxmc", 
+        "intel_arc32", 
+        "kendryte210", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "ststm32", 
+        "ststm8", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "authors": [
+        {
+            "email": null, 
+            "url": null, 
+            "maintainer": false, 
+            "name": "Juergen Skrotzky alias Jorgen"
+        }, 
+        {
+            "email": "JorgenVikingGod@gmail.com", 
+            "url": null, 
+            "maintainer": true, 
+            "name": "Jorgen"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/Jorgen-VikingGod/FastLED-GFX"
+    }, 
+    "homepage": "https://github.com/Jorgen-VikingGod/FastLEDMatrix", 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 6555
+}
